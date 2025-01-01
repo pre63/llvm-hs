@@ -12,3 +12,4 @@ cabal.project.local
 *.dwo
 .ghc.environment.*
 /stack.yaml.lock
+log
